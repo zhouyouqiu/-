@@ -1,0 +1,41 @@
+结构：
+<div class="wrap">
+    <div class="e">
+        <span>
+            <img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=862660648,2497412058&fm=58" alt=""/>哈哈哈
+        </span>
+        <span>
+            <img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=862660648,2497412058&fm=58" alt=""/>哈哈哈啦啦啦啦啦啦
+        </span>
+        <span>
+            <img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=862660648,2497412058&fm=58" alt=""/>哈啦啦啦啦啦啦啦
+        </span>
+        <span>
+            <img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=862660648,2497412058&fm=58" alt=""/>哈哈啦啦啦啦啦啦啦
+        </span>
+        <span>
+            <img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=862660648,2497412058&fm=58" alt=""/>哈哈哈哈啦啦啦啦啦啦啦
+        </span>
+    </div>
+</div>
+
+css:
+div.wrap {
+    text-align: center;
+}
+
+div.e {
+    display: inline-block;
+    background-color: #ccc;
+}
+
+div.e span {
+    display: block;
+    font-size: 16px;
+    text-align: left;
+}
+
+div.e img {
+    width: 30px;
+    height: 30px;
+}
